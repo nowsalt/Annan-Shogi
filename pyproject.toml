@@ -1,0 +1,8 @@
+[project]
+name = "annan-shogi"
+version = "0.1.0"
+description = "安南将棋 (Annan Shogi) - Pure Python implementation"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
